@@ -1,2 +1,0 @@
-first ='john'
-last = 'smith'
